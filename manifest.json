@@ -1,0 +1,10 @@
+{
+  "name": "Workify",
+  "version": "1.0",
+  "description": "Personalized dashboard for work space.",
+  "chrome_url_overrides": {
+    "newtab": "dashboard.html"
+  },
+  "permissions": ["bookmarks"],
+  "manifest_version": 2
+}
